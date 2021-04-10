@@ -17,7 +17,7 @@ class Application(QWidget):
         self.file2 = QLabel("None")
         self.main_layout = QGridLayout()
         app.setStyle('Fusion')
-        self.setWindowTitle("Rocked_socks' Change Detector v1.0")
+        self.setWindowTitle("Suave Detector v1.1")
         self.save_label = QLabel("None")
         self.save_label.setAlignment(QtCore.Qt.Alignment.AlignCenter)
         self.save_button = QPushButton("Choose a save location")
