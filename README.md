@@ -6,13 +6,13 @@ Also, keep in mind this is not an Anti-Virus. It just detects file changes by lo
 
 # Dependencies
 The following modules are used:
-pathlib
-os
-sys
-PyQt6
-threading
-datetime
-hashlib
+- pathlib
+- os
+- sys
+- PyQt6
+- threading
+- datetime
+- hashlib
 
 **Also this runs on Python 3.8 btw**
 
