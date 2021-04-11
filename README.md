@@ -19,13 +19,16 @@ hashlib
 
 # FAQ
 
-_Why does my computer flag it as a "Unsafe" file?_
-Its cause windows doesn't register it in it's program database, and it tries to not let you screw your computer into having its kernel rewritten in brainfuck.
+> Why does my computer flag it as a "Unsafe" file?
+
+ts cause windows doesn't register it in it's program database, and it tries to not let you screw your computer into having its kernel rewritten in brainfuck.
 Right click the file and select ___unblock file__ and press apply. Should let it work.
 
-_Why does this kind of suck?_
+>Why does this kind of suck?
+
 Cause I'm a freshman and I learned like half of the stuff in there within days.
 Still gonna make it work better.
 
-_wtf does it freeze after I click ok_
+> wtf does it freeze after I click ok
+
 IDK how to implement more than 2 threads, and I kinda like did multi-threading as an after-thought. The program for making backups uses only 2 threads, while the program for comparing them uses nil. It probably isn't long though, _considering it makes a hash of your entire root drive_. Gonna add an option to do a certain folder soon though.
